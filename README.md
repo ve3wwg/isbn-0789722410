@@ -8,4 +8,4 @@ Linux Socket Programming by Example
     Product Dimensions: 7.3 x 1.3 x 9 inches
     Shipping Weight: 2 pounds
 
-![](https://github.com/ve3wwg/isbn-0789722410/blob/master/front.jpg) "Linux Socket Programming by Example")
+![](https://github.com/ve3wwg/isbn-0789722410/blob/master/front.jpg)
