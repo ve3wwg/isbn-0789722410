@@ -1,9 +1,9 @@
 Linux Socket Programming by Example
 -----------------------------------
 
-Publisher: Que Publishing; 1 edition (April 28, 2000)
-Language: English
-ISBN-10: 0789722410
-ISBN-13: 978-0789722416
-Product Dimensions: 7.3 x 1.3 x 9 inches
-Shipping Weight: 2 pounds
+    Publisher: Que Publishing; 1 edition (April 28, 2000)
+    Language: English
+    ISBN-10: 0789722410
+    ISBN-13: 978-0789722416
+    Product Dimensions: 7.3 x 1.3 x 9 inches
+    Shipping Weight: 2 pounds
